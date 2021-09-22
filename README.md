@@ -29,6 +29,10 @@ Make sure the VM pin is cut short; you can leave GND:
 
 ![Remove VM](./images/C28A7719-5B15-4E75-AFF1-D4E878BD47A6_1_105_c.jpeg)
 
+Suggested stepstick and motor power connector placement:
+
+![StepStick placement](./images/BDAB8EB0-31D3-4D04-B1EB-267B53DB9AE4_1_105_c.jpeg)
+
 Cover the back with kapton tape, nobody likes to get zapped accidentally ([unless it generates views you can monetize](https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA)).
 
 ![Kapton tape](./images/D83F7161-6625-4BD3-8D6B-E5B84A2D34B2_1_105_c.jpeg)
