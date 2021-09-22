@@ -1,6 +1,8 @@
 # PowerBRRR
 48V injection daughter board for Step Stick drivers.
 
+![Final assembly](./images/09F4CF90-5943-41B8-BEAC-B70100F668FB_1_105_c.jpeg)
+
 ## Warning
 Using 48V electronics can cause serious harm on injury, only attempt to install this on your printer if you know what you are doing.
 
@@ -22,3 +24,11 @@ Suggested manufacturing is using 2oz copper or gold traces.
 * 1x SOD123FL
 
 ## Assembly
+
+Make sure the VM pin is cut short; you can leave GND:
+
+![Remove VM](./images/C28A7719-5B15-4E75-AFF1-D4E878BD47A6_1_105_c.jpeg)
+
+Cover the back with kapton tape, nobody likes to get zapped accidentally ([unless it generates views you can monetize](https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA)).
+
+![Kapton tape](./images/D83F7161-6625-4BD3-8D6B-E5B84A2D34B2_1_105_c.jpeg)
