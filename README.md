@@ -10,8 +10,8 @@ Under no circumstances I can be held responsible for harm or injury to any perso
 
 ## Boards
 
-* **PowerBRRR for BigTreeTech SKR 1.x/2.x**: [Gerber_PowerBRRR SKR_2021-09-22.zip](Gerber_PowerBRRR SKR_2021-09-22.zip)
-* **PowerBRRR for BigTreeTech SKR Pro/Octopus, Fysetc Spider, FLY F407, etc.: [Gerber_PowerBRRR Octopus_Spider_2021-09-22.zip](Gerber_PowerBRRR Octopus_Spider_2021-09-22.zip)
+* **PowerBRRR for BigTreeTech SKR 1.x/2.x**: [Gerber_PowerBRRR SKR_2021-09-22.zip](./Gerber_PowerBRRR SKR_2021-09-22.zip)
+* **PowerBRRR for BigTreeTech SKR Pro/Octopus, Fysetc Spider, FLY F407, etc.: [Gerber_PowerBRRR Octopus_Spider_2021-09-22.zip](./Gerber_PowerBRRR Octopus_Spider_2021-09-22.zip)
 
 Suggested manufacturing is using 2oz copper or gold traces.
 
