@@ -1,6 +1,19 @@
 # PowerBRRR
 48V injection daughter board for Step Stick drivers.
 
+## 48V capable hardware
+
+Mainboards:
+* [Mellow Super 8 HV](https://s.click.aliexpress.com/e/_ApXre6) with 3 ports
+* BigTreeTech Octopus Pro (pending release)
+* Fysetc Spider 2 (pending release)
+
+Stepper drivers:
+* [Mellow TMC5160 HV](https://s.click.aliexpress.com/e/_A8PwqQ)
+* [Watterott TMC5160 HV](https://shop.watterott.com/SilentStepStick-TMC5160-Stepper-motor-driver-HV-V15)
+
+<span style="font-size:50%">The links provided are affiliate links, they cost you nothing extra but provide me with a small kick back to buy stuff for R&D</span>
+
 ![Final assembly](./images/09F4CF90-5943-41B8-BEAC-B70100F668FB_1_105_c.jpeg)
 
 ## Warning
