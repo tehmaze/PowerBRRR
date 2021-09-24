@@ -51,3 +51,11 @@ Suggested stepstick and motor power connector placement:
 Cover the back with kapton tape, nobody likes to get zapped accidentally ([unless it generates views you can monetize](https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA)).
 
 ![Kapton tape](./images/D83F7161-6625-4BD3-8D6B-E5B84A2D34B2_1_105_c.jpeg)
+
+# Builds
+
+## Fysetc Spider 1.x by [netweaver](/netweaver1970)
+
+This is on the [Fysetc Spider 1.x](https://s.click.aliexpress.com/e/_AX27Ty) mainboard (8 driver slots).
+
+![Fysetc Spider by netweaver](./images/fysetc-spider-netweaver.jpg)
