@@ -54,7 +54,7 @@ Cover the back with kapton tape, nobody likes to get zapped accidentally ([unles
 
 # Builds
 
-## Fysetc Spider 1.x by [netweaver](/netweaver1970)
+## Fysetc Spider 1.x by [netweaver](https://github.com/netweaver1970)
 
 This is on the [Fysetc Spider 1.x](https://s.click.aliexpress.com/e/_AX27Ty) mainboard (8 driver slots).
 
