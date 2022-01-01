@@ -1,4 +1,7 @@
 # PowerBRRR
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O87Q19F)
+
 48V injection daughter board for Step Stick drivers.
 
 ## 48V capable hardware
