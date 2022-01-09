@@ -7,11 +7,14 @@
 ## 48V capable hardware
 
 Mainboards:
-* [Mellow Super 8 HV](https://s.click.aliexpress.com/e/_ApXre6) with 3 ports
-* BigTreeTech Octopus Pro (pending release)
-* Fysetc Spider 2 (pending release)
+* [Mellow FLY Super 8 HV](https://s.click.aliexpress.com/e/_ApXre6) with 3 HV ports
+* [Mellow FLY Gemini](https://s.click.aliexpress.com/e/_AWuUII) with 4 HV ports
+* [BigTreeTech Octopus Pro](https://s.click.aliexpress.com/e/_A7pmpM) with 8 HV ports
+* [Fysetc Spider 2](https://s.click.aliexpress.com/e/_Ao7vds) with 2 HV ports
+* Annex Engineering SuperNova with 4 HV ports (pending release)
 
 Stepper drivers:
+* Fysetc TMC5160 HV
 * [Mellow TMC5160 HV](https://s.click.aliexpress.com/e/_A8PwqQ)
 * [Watterott TMC5160 HV](https://shop.watterott.com/SilentStepStick-TMC5160-Stepper-motor-driver-HV-V15)
 
