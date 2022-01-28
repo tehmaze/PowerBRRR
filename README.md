@@ -20,14 +20,15 @@ There are multiple HV-options (beyond 24V), pay close attention to the maximum s
 
 | Manufacturer | Driver chip | Rated voltage | Max safe voltage |
 |-|-|-|-|
-| [BigTreeTech TMC2130](https://s.click.aliexpress.com/e/_AdHelD) | TMC2130 | 46V | 42V |
+| [BigTreeTech TMC2130](https://s.click.aliexpress.com/e/_AdHelD) | TMC2130 | 45V | 42V |
 | [BigTreeTech TMC5160](https://s.click.aliexpress.com/e/_AKRDf1) | TMC5160 | 35V | 32V |
 | BigTreeTech TMC5160 Pro | TMC5160 | 60V | **48V** |
-| [Fysetc TMC2130](https://s.click.aliexpress.com/e/_ATkJz9) | TMC2130 | 46V | 42V |
+| [Fysetc TMC2130](https://s.click.aliexpress.com/e/_ATkJz9) | TMC2130 | 45V | 42V |
 | [Fysetc TMC5160](https://s.click.aliexpress.com/e/_ATkJz9) | TMC5160 | 35V | 32V |
 | Fysetc TMC5160 HV | TMC5160 | 60V | **48V** |
-| [IdeaFormer TMC2130 V1.2](https://s.click.aliexpress.com/e/_AdHelD) | TMC2130 | 46V | 42V |
+| [IdeaFormer TMC2130 V1.2](https://s.click.aliexpress.com/e/_AdHelD) | TMC2130 | 45V | 42V |
 | [Mellow TMC5160 HV](https://s.click.aliexpress.com/e/_A8PwqQ) | TMC5160 | 60V | 42V |
+| [Watterott TMC2130](https://shop.watterott.com/SilentStepStick-TMC2130-Stepper-Motor-Driver) | TMC2130 | 45V | 42V |
 | [Watterott TMC5160 HV](https://shop.watterott.com/SilentStepStick-TMC5160-Stepper-motor-driver-HV-V15) | TMC5160 | 60V | **48V** |
 
 
