@@ -12,7 +12,7 @@
 |-|-|-|-|
 | [Annex Engineering SuperNova](https://store.annex.engineering/products/constellation-supernova-beta-0-1) | 4 | 330µF 63V | 3.3A |
 | [BigTreeTech Octopus Pro](https://s.click.aliexpress.com/e/_A7pmpM) | 8 | 110µF 63V | 1.1A |
-| [Fysetc Spider 2](https://s.click.aliexpress.com/e/_Ao7vds) | 2 | 110µF 60V | 1.1A |
+| [Fysetc Spider 2](https://s.click.aliexpress.com/e/_Ao7vds) | 2 | 110µF 63V | 1.1A |
 | [Mellow FLY Gemini](https://s.click.aliexpress.com/e/_AWuUII) | 4 | 110µF 50V | 1.1A |
 | [Mellow FLY Super 8 HV](https://s.click.aliexpress.com/e/_ApXre6) | 3 | 110µF 50V | 1.1A |
 
