@@ -10,7 +10,7 @@
 
 | Manufacturer | HV ports | Capacitor rating | Max motor amperage (recommended) |
 |-|-|-|-|
-| [Annex Engineering SuperNova](https://store.annex.engineering/products/constellation-supernova-beta-0-1) | 4 | 330µF 63V | 3.3A |
+| [Annex Engineering SuperNova](https://store.annex.engineering/products/constellation-supernova-beta-0-1) | 4 | 330µF 63V | 3A per motor, 10A max total |
 | [BigTreeTech Octopus Pro](https://s.click.aliexpress.com/e/_A7pmpM) | 8 | 110µF 63V | 1.1A |
 | [Fysetc Spider 2](https://s.click.aliexpress.com/e/_Ao7vds) | 2 | 110µF 63V | 1.1A |
 | [Mellow FLY Gemini](https://s.click.aliexpress.com/e/_AWuUII) | 4 | 110µF 50V | 1.1A |
@@ -20,18 +20,18 @@
 
 There are multiple HV-options (beyond 24V), pay close attention to the maximum safe voltage (based on the components on the boards)!
 
-| Manufacturer | Driver chip | Rated voltage | Max safe voltage |
-|-|-|-|-|
-| [BigTreeTech TMC2130](https://s.click.aliexpress.com/e/_AdHelD) | TMC2130 | 45V | 42V |
-| [BigTreeTech TMC5160](https://s.click.aliexpress.com/e/_AKRDf1) | TMC5160 | 35V | 32V |
-| BigTreeTech TMC5160 Pro | TMC5160 | 60V | **48V** |
-| [Fysetc TMC2130](https://s.click.aliexpress.com/e/_ATkJz9) | TMC2130 | 45V | 42V |
-| [Fysetc TMC5160](https://s.click.aliexpress.com/e/_ATkJz9) | TMC5160 | 35V | 32V |
-| Fysetc TMC5160 HV | TMC5160 | 60V | **48V** |
-| [IdeaFormer TMC2130 V1.2](https://s.click.aliexpress.com/e/_AdHelD) | TMC2130 | 45V | 42V |
-| [Mellow TMC5160 HV](https://s.click.aliexpress.com/e/_A8PwqQ) | TMC5160 | 60V | 42V |
-| [Watterott TMC2130](https://shop.watterott.com/SilentStepStick-TMC2130-Stepper-Motor-Driver) | TMC2130 | 45V | 42V |
-| [Watterott TMC5160 HV](https://shop.watterott.com/SilentStepStick-TMC5160-Stepper-motor-driver-HV-V15) | TMC5160 | 60V | **48V** |
+| Manufacturer | Driver chip | Rated voltage | Max safe voltage | Max current |
+|-|-|-|-|-|
+| [BigTreeTech TMC2130](https://s.click.aliexpress.com/e/_AdHelD) | TMC2130 | 45V | 42V | 2.5A |
+| [BigTreeTech TMC5160](https://s.click.aliexpress.com/e/_AKRDf1) | TMC5160 | 35V | 32V | 3A |
+| BigTreeTech TMC5160 Pro | TMC5160 | 60V | **48V** | 3A |
+| [Fysetc TMC2130](https://s.click.aliexpress.com/e/_ATkJz9) | TMC2130 | 45V | 42V | 2.5A |
+| [Fysetc TMC5160](https://s.click.aliexpress.com/e/_ATkJz9) | TMC5160 | 35V | 32V | 3A |
+| Fysetc TMC5160 HV | TMC5160 | 60V | **48V** | 3A |
+| [IdeaFormer TMC2130 V1.2](https://s.click.aliexpress.com/e/_AdHelD) | TMC2130 | 45V | 42V | 2.5A |
+| [Mellow TMC5160 HV](https://s.click.aliexpress.com/e/_A8PwqQ) | TMC5160 | 60V | 42V | 3A |
+| [Watterott TMC2130](https://shop.watterott.com/SilentStepStick-TMC2130-Stepper-Motor-Driver) | TMC2130 | 45V | 42V | 2.5A |
+| [Watterott TMC5160 HV](https://shop.watterott.com/SilentStepStick-TMC5160-Stepper-motor-driver-HV-V15) | TMC5160 | 60V | **48V** | 3A |
 
 
 <span style="font-size:50%">The links provided are affiliate links, they cost you nothing extra but provide me with a small kick back to buy stuff for R&D</span>
